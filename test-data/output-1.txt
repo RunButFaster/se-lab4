@@ -4,4 +4,5 @@ SUCCESS  # <- TORPEDO, primary
 SUCCESS  # <- TORPEDO, secondary
 SUCCESS  # <- TORPEDO, primary
 SUCCESS  # <- TORPEDO, primary
+SUCCESS  # <- TORPEDO, only primary
 FAIL     # <- TORPEDO, both are empty
