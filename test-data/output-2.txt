@@ -1,0 +1,2 @@
+SUCCESS #creating ship
+FAIL    #primary fails, so it should fail
