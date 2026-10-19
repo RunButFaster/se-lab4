@@ -1,2 +1,3 @@
 GT4500,1,1,1,0  #create ship, where primary always fails
 TORPEDO,SINGLE  #tries to fire primary, but should fail
+TORPEDO,ALL     #tries to fire both, but primary fails, so only fires secondary

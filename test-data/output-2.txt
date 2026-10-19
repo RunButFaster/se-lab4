@@ -1,2 +1,3 @@
-SUCCESS #creating ship
-FAIL    #primary fails, so it should fail
+SUCCESS #creates ship
+FAIL    #tries to fire primary, but fails
+SUCCESS #all only fires secondary

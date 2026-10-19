@@ -1,0 +1,3 @@
+GT4500,2,0,1,0  #creates ship
+TORPEDO,ALL     #fires both
+TORPEDO,ALL     #tries to fire both, but only primary has torpedo
