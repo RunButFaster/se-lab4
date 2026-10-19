@@ -3,3 +3,4 @@ SUCCESS #firing from both
 SUCCESS #firing from primary
 SUCCESS #firing from secondary
 SUCCESS #firing from secondary, because primary is empty
+FAIL    #both are empty
