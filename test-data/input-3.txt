@@ -1,0 +1,5 @@
+GT4500,2,0,0,0  #creates ship
+TORPEDO,SINGLE  #fires primary
+TORPEDO,SINGLE  #tries to fire secondary but its empty
+TORPEDO,SINGLE  #tries to fire secondary but both are empty
+TORPEDO,ALL     #tires to fire both, but bot are empty

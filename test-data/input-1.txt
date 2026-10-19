@@ -1,0 +1,6 @@
+GT4500,2,0,3,0  #create ship
+TORPEDO,ALL     #fire all
+TORPEDO,SINGLE  #fire from primary
+TORPEDO,SINGLE  #fire from secondary
+TORPEDO,SINGLE  #fire from again secondray, because primary is empty
+TORPEDO,SINGLE  #try to fire from primary again, but its empty, then tries to fire from secondary, but thats empty too
